@@ -1,7 +1,7 @@
 # Проект «Киноман»
 
 * Студент: [Юрий Лёгкий](https://up.htmlacademy.ru/ecmascript/17/user/1333199).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Андреев](https://htmlacademy.ru/profile/id812127).
 
 ---
 
